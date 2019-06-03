@@ -95,3 +95,12 @@ a{
 a:hover{
 	border-bottom: 2px solid white;
 }
+button{
+	width: 100px;
+	height: 35px;
+	border-radius: 10px;
+	background-color: #ff8800;
+}
+button:hover{
+	background-color: #ff0000;
+}
